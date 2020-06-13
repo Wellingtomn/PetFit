@@ -1,0 +1,27 @@
+{
+  "pet": [
+    {
+      "id": 1,
+      "name": "bob"
+    },
+    {
+      "id": 999999,
+      "name": "san"
+    },
+    {
+      "id": "alalaa",
+      "name": "teste"
+    },
+    {
+      "id": "9999",
+      "name": "teste"
+    }
+  ],
+  "alimentador": [
+    {
+      "id_alimentador": 1,
+      "id_pet": 0,
+      "peso_reservatorio": 0
+    }
+  ]
+}
